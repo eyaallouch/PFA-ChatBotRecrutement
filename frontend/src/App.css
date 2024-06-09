@@ -1,0 +1,55 @@
+.chatbot-toggle-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+  .chatbot-position {
+    position: fixed;
+    bottom: 100px; /* un peu en dessous du bouton */
+    right: 60px; /* un peu à droite du coin droit */
+    background-color: bisque;
+  }
+  .react-chatbot-kit-chat-container
+  {
+    position: fixed;
+    bottom: 100px; /* un peu en dessous du bouton */
+    right: 60px; /* un peu à droite du coin droit */
+    background-color: bisque;
+  }
+
+
+
+  /* inputEmail */
+
+.form-group {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-label {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+.form-control {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+}
+
+.btn-primary {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+}
+
+.d-flex.flex-column.align-items-center {
+  padding: 2rem;
+  background-color: #f8f9fa;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+
+/*************
